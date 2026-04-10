@@ -1,5 +1,5 @@
 {
-  "name": "Flutter",
+  "name": "Flutter Ubuntu",
   "build": {
     "dockerfile": "Dockerfile"
   },
@@ -11,6 +11,5 @@
       ]
     }
   },
-  "forwardPorts": [8080],
-  "postCreateCommand": "flutter config --enable-web && flutter doctor"
+  "forwardPorts": [8080]
 }
