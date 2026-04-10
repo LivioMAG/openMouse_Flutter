@@ -4,7 +4,7 @@
 Saubere, skalierbare Struktur für ein kleines bis mittleres Flutter-Projekt mit **Supabase** als Backend.
 
 Wichtige Prinzipien:
-- **Das Projekt liegt in openmouse/
+- Das Projekt liegt in openmouse/
 - **Trennung von UI (Pages), Logik und Datenzugriff**
 - **Keine Credentials im Code**
 - **Konfiguration über JSON**
